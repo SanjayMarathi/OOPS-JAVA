@@ -15,7 +15,6 @@ class Product {
         System.out.println("Price : " + price);
         System.out.println("Category : " + category);
     }
-
 }
 
 class Electronics extends Product {
